@@ -1,0 +1,288 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Название поста 111",
+      "description": "Текст текстsfs111111",
+      "claps": 2,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Название поста 2",
+      "description": "Текст текстsfs111111",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Заголовок 3",
+      "description": "Текст 3",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Название поста 4",
+      "description": "Текст текстsfs111111",
+      "claps": 3,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Название поста 5",
+      "description": "Текст текстsfs111111",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "title": "Название поста 6",
+      "description": "Текст текстsfs111111",
+      "claps": 2,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "title": "Название поста 7",
+      "description": "Текст текстsfs111111",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Заголовок 8",
+      "description": "Текст 3",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "title": "Название поста 9",
+      "description": "Текст текстsfs111111",
+      "claps": 3,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Название поста 10",
+      "description": "Текст текстsfs111111",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Название поста 11",
+      "description": "Текст текстsfs111111",
+      "claps": 2,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "title": "Название поста 12",
+      "description": "Текст текстsfs111111",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "Заголовок 13",
+      "description": "Текст 3",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "Название поста 14",
+      "description": "Текст текстsfs111111",
+      "claps": 3,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 15,
+      "title": "Название поста 15",
+      "description": "Текст текстsfs111111",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 16,
+      "title": "Название поста 16",
+      "description": "Текст текстsfs111111",
+      "claps": 2,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 17,
+      "title": "Название поста 17",
+      "description": "Текст текстsfs111111",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 18,
+      "title": "Заголовок 18",
+      "description": "Текст 3",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 19,
+      "title": "Название поста 19",
+      "description": "Текст текстsfs111111",
+      "claps": 3,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 20,
+      "title": "Название поста 20",
+      "description": "Текст текстsfs111111",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 21,
+      "title": "Название поста 21",
+      "description": "Текст текстsfs111111",
+      "claps": 2,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 22,
+      "title": "Название поста 22",
+      "description": "Текст текстsfs111111",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 23,
+      "title": "Заголовок 23",
+      "description": "Текст 3",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 24,
+      "title": "Название поста 24",
+      "description": "Текст текстsfs111111",
+      "claps": 3,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 25,
+      "title": "Название поста 25",
+      "description": "Текст текстsfs111111",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 26,
+      "title": "Название поста 26",
+      "description": "Текст текстsfs111111",
+      "claps": 2,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 27,
+      "title": "Название поста 27",
+      "description": "Текст текстsfs111111",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 28,
+      "title": "Заголовок 28",
+      "description": "Текст 3",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 29,
+      "title": "Название поста 29",
+      "description": "Текст текстsfs111111",
+      "claps": 3,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 30,
+      "title": "Название поста 30",
+      "description": "Текст текстsfs30",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    }
+  ]
+}
