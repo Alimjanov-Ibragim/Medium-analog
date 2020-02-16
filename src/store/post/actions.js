@@ -31,6 +31,7 @@ function removePost({ commit }, post) {
     .then(json => {
       commit("REMOVEPOST", json);
     });
+  setPosts({ commit });
 }
 
 function addPost({ commit }, post) {
